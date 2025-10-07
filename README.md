@@ -7,4 +7,4 @@ Educational 32-bit x86 subset emulator for the web: registers, stack, calling co
 # requires: Node 18+, Rust + wasm-pack, pnpm (or npm/yarn)
 pnpm i
 pnpm -w build
-pnpm -w dev
+pnpm -w devcar
